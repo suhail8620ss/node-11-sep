@@ -1,0 +1,72 @@
+[
+     {
+          "id": 1,
+          "first_name": "Dan",
+          "last_name": "Goundrill",
+          "email": "dgoundrill0@arstechnica.com",
+          "gender": "Polygender"
+     },
+     {
+          "id": 2,
+          "first_name": "Cecilius",
+          "last_name": "Cisec",
+          "email": "ccisec1@cocolog-nifty.com",
+          "gender": "Male"
+     },
+     {
+          "id": 3,
+          "first_name": "Adolph",
+          "last_name": "Winley",
+          "email": "awinley2@fastcompany.com",
+          "gender": "Male"
+     },
+     {
+          "id": 4,
+          "first_name": "Marshal",
+          "last_name": "Scotts",
+          "email": "mscotts3@loc.gov",
+          "gender": "Male"
+     },
+     {
+          "id": 5,
+          "first_name": "Lauretta",
+          "last_name": "Ower",
+          "email": "lower4@reuters.com",
+          "gender": "Female"
+     },
+     {
+          "id": 6,
+          "first_name": "Virgie",
+          "last_name": "Matthai",
+          "email": "vmatthai5@usnews.com",
+          "gender": "Polygender"
+     },
+     {
+          "id": 7,
+          "first_name": "Merralee",
+          "last_name": "McAndie",
+          "email": "mmcandie6@w3.org",
+          "gender": "Polygender"
+     },
+     {
+          "id": 8,
+          "first_name": "Homerus",
+          "last_name": "Folland",
+          "email": "hfolland7@wikia.com",
+          "gender": "Male"
+     },
+     {
+          "id": 9,
+          "first_name": "Ileana",
+          "last_name": "Clarke",
+          "email": "iclarke8@msu.edu",
+          "gender": "Female"
+     },
+     {
+          "id": 10,
+          "first_name": "Josselyn",
+          "last_name": "Hub",
+          "email": "jhub9@myspace.com",
+          "gender": "Female"
+     }
+]
